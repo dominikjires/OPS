@@ -23,7 +23,7 @@ void displayColor(int n, int color) {
 }
 
 typedef struct {
-    int color;
+    char* color;
     int time;
     } Car;
 
